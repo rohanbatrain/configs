@@ -3,5 +3,5 @@
 	url = git@github.com:rohanbatrain/.obsidian
 
 [submodule "Dell-Latitude-E6420/Proxmox/Obsidian/Second-Brain-Private/.obsidian"]
-	path = Proxmox/Arch-Linux/Obsidian/Second-Brain-Private/.obsidian
+	path = Dell-Latitude/Proxmox/Obsidian/Second-Brain-Private/.obsidian
 	url = git@github.com:rohanbatrain/.obsidian
