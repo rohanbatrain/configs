@@ -1,5 +1,8 @@
 # Configs
 
+![2](https://github.com/user-attachments/assets/95569e95-996d-4dd1-a4c5-2519b3976806)
+
+
 Welcome to my collection of configuration files. This repository contains personal configuration setups for various environments, including containerized applications, Proxmox virtualization, and virtual machine configurations. These files serve as a reference for automating and managing different systems efficiently.
 
 ## Directory Structure
